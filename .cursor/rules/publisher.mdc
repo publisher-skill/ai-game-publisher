@@ -6,7 +6,7 @@ alwaysApply: false
 
 # Publisher — publish HTML projects & build APKs
 
-Platform: `https://pushwebly.com`
+Platform: `https://ai-pub.pushwebly.com`
 
 Skill version: see the `version` field in SKILL.md frontmatter.
 
